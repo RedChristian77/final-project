@@ -2161,6 +2161,11 @@ qs@6.7.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
+random-dungeon-generator@^1.0.32:
+  version "1.0.32"
+  resolved "https://registry.yarnpkg.com/random-dungeon-generator/-/random-dungeon-generator-1.0.32.tgz#73afe73c95aad239c7be1528d3cfa7bff24fe0c0"
+  integrity sha1-c6/nPJWq0jnHvhUo08+nv/JP4MA=
+
 range-parser@~1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.1.tgz#3cf37023d199e1c24d1a55b84800c2f3e6468031"
